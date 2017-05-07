@@ -1,7 +1,12 @@
+* {
+	font-family: 'Noto Sans', sans-serif;
+}
+
 .submit {
 	background-color: #E8E8E8;
 	padding: 30px;
 	margin-top: 100px;
+	margin-bottom: 100px;
 }
 
 .submit h1 {
@@ -14,9 +19,9 @@
 	color: #fff;
 }
 
-.alert-success,
 .alert-danger {
 	margin-top: 10px;
+	visibility: hidden;
 	display: none;
 	margin-bottom: 0;
 }
@@ -26,6 +31,18 @@
 	margin-top: 10px;
 }
 
+#zodiac img {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#zodiac p {
+	font-size: 16px;
+	line-height: 25px;
+	letter-spacing: 0.5px;
+}
+
 .show {
+	visibility: visible;
 	display: block;
 }
