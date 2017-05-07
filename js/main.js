@@ -4,7 +4,7 @@ $(document).ready(function (){
 	var zodiac = [
 	{
 		sign: 'aquarius',
-		icon: 'images/PNG/128x128/aquarius.png',
+		icon: 'images/PNG/128x128/Aquarius.png',
 		horoscope: '<b>Strengths:</b> Progressive, original, independent, humanitarian<br>\
 		<b>Weaknesses:</b> Runs from emotional expression, temperamental, uncompromising, aloof<br>\
 		Aquarius likes: Fun with friends, helping others, fighting for causes, intellectual conversation, a good listener<br>\
@@ -13,7 +13,7 @@ $(document).ready(function (){
 
 	{
 		sign: 'pisces',
-		icon: 'images/PNG/128x128/pisces.png',
+		icon: 'images/PNG/128x128/Pisces.png',
 		horoscope: '<b>Strengths:</b> Compassionate, artistic, intuitive, gentle, wise, musical<br>\
 		<b>Weaknesses:</b> Fearful, overly trusting, sad, desire to escape reality, can be a victim or a martyr<br>\
 		Pisces likes: Being alone, sleeping, music, romance, visual media, swimming, spiritual themes<br>\
@@ -31,7 +31,7 @@ $(document).ready(function (){
 
 	{
 		sign: 'taurus',
-		icon: 'images/PNG/128x128/taurus.png',
+		icon: 'images/PNG/128x128/Taurus.png',
 		horoscope: '<b>Strengths:</b> Reliable, patient, practical, devoted, responsible, stable<br>\
 		<b>Weaknesses:</b> Stubborn, possessive, uncompromising<br>\
 		Taurus likes: Gardening, cooking, music, romance, high quality clothes, working with hands<br>\
@@ -40,7 +40,7 @@ $(document).ready(function (){
 
 	{
 		sign: 'gemini',
-		icon: 'images/PNG/128x128/gemini.png',
+		icon: 'images/PNG/128x128/Gemini.png',
 		horoscope: '<b>Strengths:</b> Gentle, affectionate, curious, adaptable, ability to learn quickly and exchange ideas<br>\
 		<b>Weaknesses:</b> Nervous, inconsistent, indecisive<br>\
 		Gemini likes: Music, books, magazines, chats with nearly anyone, short trips around the town<br>\
@@ -49,7 +49,7 @@ $(document).ready(function (){
 
 	{
 		sign: 'cancer',
-		icon: 'images/PNG/128x128/cancer.png',
+		icon: 'images/PNG/128x128/Cancer.png',
 		horoscope: '<b>Strengths:</b> Tenacious, highly imaginative, loyal, emotional, sympathetic, persuasive<br>\
 		<b>Weaknesses:</b> Moody, pessimistic, suspicious, manipulative, insecure<br>\
 		Cancer likes: Art, home-based hobbies, relaxing near or in water, helping loved ones, a good meal with friends<br>\
@@ -58,7 +58,7 @@ $(document).ready(function (){
 
 	{
 		sign: 'leo',
-		icon: 'images/PNG/128x128/leo.png',
+		icon: 'images/PNG/128x128/Leo.png',
 		horoscope: '<b>Strengths:</b> Creative, passionate, generous, warm-hearted, cheerful, humorous<br>\
 		<b>Weaknesses:</b> Arrogant, stubborn, self-centered, lazy, inflexible<br>\
 		Leo likes: Theater, taking holidays, being admired, expensive things, bright colors, fun with friends<br>\
@@ -67,7 +67,7 @@ $(document).ready(function (){
 
 	{
 		sign: 'virgo',
-		icon: 'images/PNG/128x128/virgo.png',
+		icon: 'images/PNG/128x128/Virgo.png',
 		horoscope: '<b>Strengths:</b> Loyal, analytical, kind, hardworking, practical<br>\
 		<b>Weaknesses:</b> Shyness, worry, overly critical of self and others, all work and no play<br>\
 		Virgo likes: Animals, healthy food, books, nature, cleanliness<br>\
@@ -76,7 +76,7 @@ $(document).ready(function (){
 
 	{
 		sign: 'libra',
-		icon: 'images/PNG/128x128/libra.png',
+		icon: 'images/PNG/128x128/Libra.png',
 		horoscope: '<b>Strengths:</b> Cooperative,diplomatic, gracious, fair-minded, social<br>\
 		<b>Weaknesses:</b> Indecisive, avoids confrontations, will carry a grudge, self-pity<br>\
 		Libra likes: Harmony, gentleness, sharing with others, the outdoors<br>\
@@ -85,7 +85,7 @@ $(document).ready(function (){
 
 	{
 		sign: 'scorpio',
-		icon: 'images/PNG/128x128/scorpio.png',
+		icon: 'images/PNG/128x128/Scorpio.png',
 		horoscope: '<b>Strengths:</b> Resourceful, brave, passionate, stubborn, a true friend<br>\
 		<b>Weaknesses:</b> Distrusting, jealous, secretive, violent<br>\
 		Scorpio likes: Truth, facts, being right, longtime friends, teasing, a grand passion<br>\
@@ -94,7 +94,7 @@ $(document).ready(function (){
 
 	{
 		sign: 'SAGITTARIUS',
-		icon: 'images/PNG/128x128/SAGITTARIUS.png',
+		icon: 'images/PNG/128x128/Sagittarius.png',
 		horoscope: '<b>Strengths:</b> Generous, idealistic, great sense of humor<br>\
 		<b>Weaknesses:</b> Promises more than can deliver, very impatient, will say anything no matter how undiplomatic<br>\
 		Sagittarius likes: Freedom, travel, philosophy, being outdoors<br>\
@@ -103,7 +103,7 @@ $(document).ready(function (){
 
 	{
 		sign: 'capricorn',
-		icon: 'images/PNG/128x128/capricorn.png',
+		icon: 'images/PNG/128x128/Capricorn.png',
 		horoscope: '<b>Strengths:</b> Responsible, disciplined, self-control, good managers<br>\
 		<b>Weaknesses:</b> Know-it-all, unforgiving, condescending, expecting the worst<br>\
 		Capricorn likes: Family, tradition, music, understated status, quality craftsmanship<br>\
